@@ -8,16 +8,17 @@
 <!--- Label --->
 <!--- ELabel ---> 
 <!--- Name:module: --->
-#module 
+# ALBASE1608
 <!--- LongName --->
-module description
+
 <!--- ELongName ---> 
 
 <!--- Lead --->
-module lead text
+This base board has size 16x08 holes and standard MLAB grid 400mils (10.16mm)
 <!--- ELead ---> 
 
-![LeadImg](doc/img/module_top_big.jpg) 
+![canvas](https://user-images.githubusercontent.com/5196729/236947843-e0803e6a-4725-44b4-a70a-fa5eaa4a4763.png)
+
 
 
 <!--- Description --->
