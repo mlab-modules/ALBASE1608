@@ -1,0 +1,4 @@
+[submodule "mechanical/ALBASE1608"]
+	path = mechanical/ALBASE1608
+	url = git@github.com:mlab-modules/ALBASE1608.git
+	branch = ALBASE1608
