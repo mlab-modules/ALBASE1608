@@ -4,8 +4,8 @@ github_repo: ALBASE1608
 github_url: https://github.com/mlab-modules/ALBASE1608
 homepage: false
 images:
-- doc/img/ALBASE1608_QRcode.png
 - mechanical/ALBASE1608/doc/img/ALBASE1608_QRcode.png
+- doc/img/ALBASE1608_QRcode.png
 mark: 50
 tags:
 - albase
