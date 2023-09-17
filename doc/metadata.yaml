@@ -7,7 +7,9 @@ images:
 - mechanical/ALBASE1608/doc/img/ALBASE1608_QRcode.png
 - doc/img/ALBASE1608_QRcode.png
 mark: 50
+status: 2
 tags:
 - albase
 - mlab
+- mlab-module
 title: ALBASE1608
